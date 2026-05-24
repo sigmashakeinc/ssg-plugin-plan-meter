@@ -1,0 +1,14 @@
+# plan-meter — your SSG plan tier and today's eval usage at a glance.
+id              = "plan-meter"
+version         = "0.1.0"
+name            = "Plan Meter"
+description     = "Your SSG plan tier and today's eval usage at a glance."
+category        = "productivity"
+entry           = "index.html"
+min_ssg_version = "0.29.94"
+
+[[nav]]
+label   = "Plan Meter"
+path    = "/plugins/plan-meter/"
+section = "settings"
+order   = 70
