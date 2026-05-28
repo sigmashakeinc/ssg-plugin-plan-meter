@@ -4,7 +4,7 @@
   "name": "Plan Meter",
   "description": "Your SSG plan tier and today's eval usage at a glance.",
   "entry": "index.html",
-  "artifact_url": "__FILL_ME_IN__",
+  "artifact_url": "https://github.com/sigmashakeinc/ssg-plugin-plan-meter/releases/download/v0.1.0/plan-meter-0.1.0.tar.gz",
   "artifact_sha256": "8a9339af780c90a3ff079cace478d68597befadae1440c6af465319ab5c96684",
   "artifact_signature": "eb91de93be5c6d87bf3ba6fc447acce73c6e6aec2908d33187f82e3b1a242655996c24d01c7451800f14254d8c477599acc2241b2f7d7856376e3b3ad25bea0a",
   "signing_fingerprint": "302a300506032b6570032100fa27b2eba3b238546c2c6bb48358f6e376cf31c80ab23d4215cacfabfc6dbd55",
