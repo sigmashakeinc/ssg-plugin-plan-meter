@@ -1,6 +1,6 @@
 # plan-meter — your SSG plan tier and today's eval usage at a glance.
 id              = "plan-meter"
-version         = "0.1.0"
+version         = "0.1.1"
 name            = "Plan Meter"
 description     = "Your SSG plan tier and today's eval usage at a glance."
 category        = "productivity"
